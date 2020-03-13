@@ -1,0 +1,16 @@
+<html>
+
+<head>
+
+function getData() {
+  console.log(fetching data');
+  const data = await fetch (https://coveid19.mathdro.id/api').then(data =>
+    data.json();
+}
+</head>
+
+<body>
+
+</body>
+
+</html>
